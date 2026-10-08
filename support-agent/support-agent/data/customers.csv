@@ -1,0 +1,101 @@
+customer_id,name,email,phone,city,state,pincode,customer_tier,created_at
+CUST0001,Aarav Sharma,user001@example.com,+919000000001,Mumbai,Maharashtra,400001,standard,2025-10-02
+CUST0002,Vivaan Patel,user002@example.com,+919000000002,Delhi,Delhi,110001,standard,2026-02-22
+CUST0003,Aditya Kumar,user003@example.com,+919000000003,Bengaluru,Karnataka,560001,premium,2025-04-21
+CUST0004,Arjun Agarwal,user004@example.com,+919000000004,Hyderabad,Telangana,500001,standard,2026-01-24
+CUST0005,Rohan Chopra,user005@example.com,+919000000005,Chennai,Tamil Nadu,600001,premium,2025-12-15
+CUST0006,Rahul Reddy,user006@example.com,+919000000006,Pune,Maharashtra,411001,standard,2025-06-13
+CUST0007,Karan Das,user007@example.com,+919000000007,Kolkata,West Bengal,700001,standard,2025-12-12
+CUST0008,Aman Verma,user008@example.com,+919000000008,Ahmedabad,Gujarat,380001,premium,2025-09-09
+CUST0009,Ankit Gupta,user009@example.com,+919000000009,Jaipur,Rajasthan,302001,standard,2025-01-02
+CUST0010,Vikram Mishra,user010@example.com,+919000000010,Lucknow,Uttar Pradesh,226001,vip,2025-03-31
+CUST0011,Priya Malhotra,user011@example.com,+919000000011,Mumbai,Maharashtra,400001,vip,2025-03-13
+CUST0012,Ananya Bansal,user012@example.com,+919000000012,Delhi,Delhi,110001,standard,2025-11-20
+CUST0013,Isha Nair,user013@example.com,+919000000013,Bengaluru,Karnataka,560001,vip,2025-04-15
+CUST0014,Neha Kapoor,user014@example.com,+919000000014,Hyderabad,Telangana,500001,standard,2025-04-05
+CUST0015,Kavya Singh,user015@example.com,+919000000015,Chennai,Tamil Nadu,600001,standard,2025-05-10
+CUST0016,Sneha Mehta,user016@example.com,+919000000016,Pune,Maharashtra,411001,standard,2025-10-26
+CUST0017,Pooja Joshi,user017@example.com,+919000000017,Kolkata,West Bengal,700001,vip,2026-08-11
+CUST0018,Riya Jain,user018@example.com,+919000000018,Ahmedabad,Gujarat,380001,vip,2025-09-29
+CUST0019,Meera Sinha,user019@example.com,+919000000019,Jaipur,Rajasthan,302001,vip,2025-02-07
+CUST0020,Simran Iyer,user020@example.com,+919000000020,Lucknow,Uttar Pradesh,226001,premium,2025-12-18
+CUST0021,Aarav Sharma,user021@example.com,+919000000021,Mumbai,Maharashtra,400001,vip,2025-07-31
+CUST0022,Vivaan Patel,user022@example.com,+919000000022,Delhi,Delhi,110001,premium,2025-01-13
+CUST0023,Aditya Kumar,user023@example.com,+919000000023,Bengaluru,Karnataka,560001,vip,2026-06-10
+CUST0024,Arjun Agarwal,user024@example.com,+919000000024,Hyderabad,Telangana,500001,vip,2026-07-06
+CUST0025,Rohan Chopra,user025@example.com,+919000000025,Chennai,Tamil Nadu,600001,vip,2026-06-18
+CUST0026,Rahul Reddy,user026@example.com,+919000000026,Pune,Maharashtra,411001,vip,2026-01-19
+CUST0027,Karan Das,user027@example.com,+919000000027,Kolkata,West Bengal,700001,standard,2025-07-05
+CUST0028,Aman Verma,user028@example.com,+919000000028,Ahmedabad,Gujarat,380001,standard,2026-05-14
+CUST0029,Ankit Gupta,user029@example.com,+919000000029,Jaipur,Rajasthan,302001,premium,2025-06-24
+CUST0030,Vikram Mishra,user030@example.com,+919000000030,Lucknow,Uttar Pradesh,226001,premium,2025-12-12
+CUST0031,Priya Malhotra,user031@example.com,+919000000031,Mumbai,Maharashtra,400001,vip,2025-03-17
+CUST0032,Ananya Bansal,user032@example.com,+919000000032,Delhi,Delhi,110001,vip,2026-02-01
+CUST0033,Isha Nair,user033@example.com,+919000000033,Bengaluru,Karnataka,560001,premium,2025-01-17
+CUST0034,Neha Kapoor,user034@example.com,+919000000034,Hyderabad,Telangana,500001,standard,2026-08-24
+CUST0035,Kavya Singh,user035@example.com,+919000000035,Chennai,Tamil Nadu,600001,standard,2026-01-08
+CUST0036,Sneha Mehta,user036@example.com,+919000000036,Pune,Maharashtra,411001,standard,2025-12-27
+CUST0037,Pooja Joshi,user037@example.com,+919000000037,Kolkata,West Bengal,700001,standard,2026-02-20
+CUST0038,Riya Jain,user038@example.com,+919000000038,Ahmedabad,Gujarat,380001,standard,2025-10-22
+CUST0039,Meera Sinha,user039@example.com,+919000000039,Jaipur,Rajasthan,302001,vip,2025-08-27
+CUST0040,Simran Iyer,user040@example.com,+919000000040,Lucknow,Uttar Pradesh,226001,vip,2025-07-01
+CUST0041,Aarav Sharma,user041@example.com,+919000000041,Mumbai,Maharashtra,400001,standard,2026-07-04
+CUST0042,Vivaan Patel,user042@example.com,+919000000042,Delhi,Delhi,110001,vip,2026-01-23
+CUST0043,Aditya Kumar,user043@example.com,+919000000043,Bengaluru,Karnataka,560001,vip,2025-02-15
+CUST0044,Arjun Agarwal,user044@example.com,+919000000044,Hyderabad,Telangana,500001,standard,2025-05-18
+CUST0045,Rohan Chopra,user045@example.com,+919000000045,Chennai,Tamil Nadu,600001,vip,2025-07-17
+CUST0046,Rahul Reddy,user046@example.com,+919000000046,Pune,Maharashtra,411001,standard,2025-09-20
+CUST0047,Karan Das,user047@example.com,+919000000047,Kolkata,West Bengal,700001,premium,2025-10-06
+CUST0048,Aman Verma,user048@example.com,+919000000048,Ahmedabad,Gujarat,380001,vip,2026-03-07
+CUST0049,Ankit Gupta,user049@example.com,+919000000049,Jaipur,Rajasthan,302001,standard,2025-04-22
+CUST0050,Vikram Mishra,user050@example.com,+919000000050,Lucknow,Uttar Pradesh,226001,standard,2026-06-07
+CUST0051,Priya Malhotra,user051@example.com,+919000000051,Mumbai,Maharashtra,400001,premium,2025-04-01
+CUST0052,Ananya Bansal,user052@example.com,+919000000052,Delhi,Delhi,110001,standard,2026-03-20
+CUST0053,Isha Nair,user053@example.com,+919000000053,Bengaluru,Karnataka,560001,standard,2026-07-03
+CUST0054,Neha Kapoor,user054@example.com,+919000000054,Hyderabad,Telangana,500001,vip,2025-03-17
+CUST0055,Kavya Singh,user055@example.com,+919000000055,Chennai,Tamil Nadu,600001,vip,2025-01-30
+CUST0056,Sneha Mehta,user056@example.com,+919000000056,Pune,Maharashtra,411001,premium,2025-09-26
+CUST0057,Pooja Joshi,user057@example.com,+919000000057,Kolkata,West Bengal,700001,vip,2025-02-03
+CUST0058,Riya Jain,user058@example.com,+919000000058,Ahmedabad,Gujarat,380001,premium,2026-03-01
+CUST0059,Meera Sinha,user059@example.com,+919000000059,Jaipur,Rajasthan,302001,premium,2025-01-25
+CUST0060,Simran Iyer,user060@example.com,+919000000060,Lucknow,Uttar Pradesh,226001,standard,2026-03-06
+CUST0061,Aarav Sharma,user061@example.com,+919000000061,Mumbai,Maharashtra,400001,standard,2025-05-28
+CUST0062,Vivaan Patel,user062@example.com,+919000000062,Delhi,Delhi,110001,premium,2025-08-29
+CUST0063,Aditya Kumar,user063@example.com,+919000000063,Bengaluru,Karnataka,560001,standard,2025-02-28
+CUST0064,Arjun Agarwal,user064@example.com,+919000000064,Hyderabad,Telangana,500001,vip,2026-07-05
+CUST0065,Rohan Chopra,user065@example.com,+919000000065,Chennai,Tamil Nadu,600001,premium,2025-05-30
+CUST0066,Rahul Reddy,user066@example.com,+919000000066,Pune,Maharashtra,411001,premium,2026-02-03
+CUST0067,Karan Das,user067@example.com,+919000000067,Kolkata,West Bengal,700001,premium,2025-05-10
+CUST0068,Aman Verma,user068@example.com,+919000000068,Ahmedabad,Gujarat,380001,premium,2026-06-14
+CUST0069,Ankit Gupta,user069@example.com,+919000000069,Jaipur,Rajasthan,302001,standard,2025-06-20
+CUST0070,Vikram Mishra,user070@example.com,+919000000070,Lucknow,Uttar Pradesh,226001,vip,2026-03-19
+CUST0071,Priya Malhotra,user071@example.com,+919000000071,Mumbai,Maharashtra,400001,standard,2025-05-20
+CUST0072,Ananya Bansal,user072@example.com,+919000000072,Delhi,Delhi,110001,vip,2025-01-22
+CUST0073,Isha Nair,user073@example.com,+919000000073,Bengaluru,Karnataka,560001,premium,2026-04-06
+CUST0074,Neha Kapoor,user074@example.com,+919000000074,Hyderabad,Telangana,500001,vip,2025-11-08
+CUST0075,Kavya Singh,user075@example.com,+919000000075,Chennai,Tamil Nadu,600001,vip,2025-01-29
+CUST0076,Sneha Mehta,user076@example.com,+919000000076,Pune,Maharashtra,411001,standard,2026-06-19
+CUST0077,Pooja Joshi,user077@example.com,+919000000077,Kolkata,West Bengal,700001,premium,2026-06-14
+CUST0078,Riya Jain,user078@example.com,+919000000078,Ahmedabad,Gujarat,380001,standard,2025-12-18
+CUST0079,Meera Sinha,user079@example.com,+919000000079,Jaipur,Rajasthan,302001,standard,2026-07-13
+CUST0080,Simran Iyer,user080@example.com,+919000000080,Lucknow,Uttar Pradesh,226001,premium,2025-08-19
+CUST0081,Aarav Sharma,user081@example.com,+919000000081,Mumbai,Maharashtra,400001,premium,2025-04-06
+CUST0082,Vivaan Patel,user082@example.com,+919000000082,Delhi,Delhi,110001,premium,2026-06-03
+CUST0083,Aditya Kumar,user083@example.com,+919000000083,Bengaluru,Karnataka,560001,standard,2025-07-28
+CUST0084,Arjun Agarwal,user084@example.com,+919000000084,Hyderabad,Telangana,500001,premium,2025-09-28
+CUST0085,Rohan Chopra,user085@example.com,+919000000085,Chennai,Tamil Nadu,600001,vip,2025-02-14
+CUST0086,Rahul Reddy,user086@example.com,+919000000086,Pune,Maharashtra,411001,standard,2025-07-21
+CUST0087,Karan Das,user087@example.com,+919000000087,Kolkata,West Bengal,700001,standard,2025-01-18
+CUST0088,Aman Verma,user088@example.com,+919000000088,Ahmedabad,Gujarat,380001,standard,2025-10-02
+CUST0089,Ankit Gupta,user089@example.com,+919000000089,Jaipur,Rajasthan,302001,standard,2025-03-29
+CUST0090,Vikram Mishra,user090@example.com,+919000000090,Lucknow,Uttar Pradesh,226001,premium,2025-03-27
+CUST0091,Priya Malhotra,user091@example.com,+919000000091,Mumbai,Maharashtra,400001,premium,2026-07-22
+CUST0092,Ananya Bansal,user092@example.com,+919000000092,Delhi,Delhi,110001,standard,2026-07-02
+CUST0093,Isha Nair,user093@example.com,+919000000093,Bengaluru,Karnataka,560001,standard,2026-05-11
+CUST0094,Neha Kapoor,user094@example.com,+919000000094,Hyderabad,Telangana,500001,vip,2026-02-12
+CUST0095,Kavya Singh,user095@example.com,+919000000095,Chennai,Tamil Nadu,600001,standard,2025-09-21
+CUST0096,Sneha Mehta,user096@example.com,+919000000096,Pune,Maharashtra,411001,vip,2025-12-15
+CUST0097,Pooja Joshi,user097@example.com,+919000000097,Kolkata,West Bengal,700001,vip,2025-08-18
+CUST0098,Riya Jain,user098@example.com,+919000000098,Ahmedabad,Gujarat,380001,standard,2025-01-07
+CUST0099,Meera Sinha,user099@example.com,+919000000099,Jaipur,Rajasthan,302001,vip,2025-12-18
+CUST0100,Simran Iyer,user100@example.com,+919000000100,Lucknow,Uttar Pradesh,226001,standard,2025-02-23

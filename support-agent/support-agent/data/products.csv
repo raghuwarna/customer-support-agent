@@ -1,0 +1,21 @@
+product_id,product_name,category,price,stock_quantity,warranty_months,returnable
+PROD0001,Wireless Earbuds,Home,2499,102,24,true
+PROD0002,Bluetooth Speaker,Fashion,1499,101,6,true
+PROD0003,Smart Watch,Fashion,1499,59,6,true
+PROD0004,Power Bank,Fashion,499,116,12,true
+PROD0005,USB-C Hub,Accessories,1299,54,24,true
+PROD0006,Mechanical Keyboard,Fashion,1499,27,12,true
+PROD0007,Wireless Mouse,Electronics,1299,138,24,true
+PROD0008,Webcam,Home,499,107,6,true
+PROD0009,Phone Case,Accessories,1999,86,6,true
+PROD0010,Fast Charger,Fashion,3999,93,6,true
+PROD0011,USB-C Cable,Fashion,1299,122,24,true
+PROD0012,Desk Lamp,Accessories,1499,73,24,true
+PROD0013,Air Purifier,Fashion,2999,80,12,true
+PROD0014,Coffee Maker,Electronics,899,41,6,true
+PROD0015,Electric Kettle,Fashion,4999,137,24,true
+PROD0016,Smart Plug,Mobile,2499,146,6,true
+PROD0017,Backpack,Fashion,2999,46,12,true
+PROD0018,Running Shoes,Home,999,18,12,true
+PROD0019,Hoodie,Accessories,3999,83,24,true
+PROD0020,Laptop Stand,Accessories,499,92,24,true
